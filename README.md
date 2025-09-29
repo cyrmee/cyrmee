@@ -8,8 +8,8 @@ I see backend engineering as a form of translation — turning complex needs int
   <a href="mailto:mehretabhailegebriel@proton.me"><img src="https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail" /></a>
   <a href="mailto:cyrmee@gmail.com"><img src="https://img.shields.io/badge/Alt%20Email-cyrmee%40gmail.com-blue?style=flat" /></a>
   <a href="https://github.com/cyrmee"><img src="https://img.shields.io/badge/GitHub-cyrmee-181717?logo=github" /></a>
-  <a href="https://www.linkedin.com/in/REPLACE_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" /></a>
-  <a href="tel:+251942547895"><img src="https://img.shields.io/badge/Phone-%2B251%20942%20547%20895-25D366?logo=whatsapp" /></a>
+  <a href="https://www.linkedin.com/in/mehretab-hailegebriel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" /></a>
+  <a href="https://wa.me/251942547895" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B251%20942%20547%20895-25D366?logo=whatsapp" /></a>
 </p>
 
 ### 🛠️ Tech Stack
