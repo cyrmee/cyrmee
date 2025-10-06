@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <b>Mehretab Hailegebriel (Mercy)</b> 👋</h1>
 <h3 align="center">Backend Engineer</h3>
 <p align="center">
-I see backend engineering as a form of translation — turning complex needs into simple, reliable solutions. For me, it’s not just about writing code, but about creating systems that genuinely make people’s lives easier.
+I see backend engineering as a form of translation, turning complex needs into simple, reliable solutions. For me, it’s not just about writing code, but about creating systems that genuinely make people’s lives easier.
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@ I see backend engineering as a form of translation — turning complex needs int
 ### 📄 Certifications
 - AWS Certified Solutions Architect – Associate (2024–2027)
 - AWS Certified Cloud Practitioner (2023–2027)
-- ALX Cloud Computing Certification (2024)
 
 Feel free to reach out via email or open a discussion/issue on a repo.
 Thanks for visiting! ⭐ Consider starring a repo if something here helps you.
