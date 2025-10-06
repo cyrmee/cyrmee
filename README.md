@@ -12,41 +12,10 @@ I see backend engineering as a form of translation — turning complex needs int
   <a href="https://wa.me/251942547895" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B251%20942%20547%20895-25D366?logo=whatsapp" /></a>
 </p>
 
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-C# · .NET · EF Core · TypeScript · NestJS · Python · Java · GraphQL · REST · WebSockets
-
-**Data & Storage**  
-PostgreSQL · MongoDB · Redis · MSSQL · Prisma ORM · Azure Blob
-
-**Cloud & DevOps**  
-AWS (EC2, S3, RDS, ELB, CloudWatch) · Azure (AI Search, Functions, AI Foundry) · Docker · Kubernetes · Nginx · CI/CD · Observability
-
-**Patterns & Practices**  
-Domain-driven structuring · Caching strategy (hot paths + eviction discipline) · Async/message-driven design · Secure auth (OAuth 2.0) · Index optimization
-
 ### 📄 Certifications
 - AWS Certified Solutions Architect – Associate (2024–2027)
 - AWS Certified Cloud Practitioner (2023–2027)
 - ALX Cloud Computing Certification (2024)
 
-**🎓 Education**
-BSc in Computer Science — HiLCoE (2018–2022) 
-
-**🤝 Let’s Collaborate**
-I’m open to:
-- AI-powered data search & enrichment products
-- High-throughput backend systems
-- Developer tooling & architecture accelerators
-- Open-source contributions (NestJS / .NET / data infra)
-
 Feel free to reach out via email or open a discussion/issue on a repo.
-
-### 📬 Contact
-Email (Primary): cyrmee@gmail.com    
-Email (Alt): mehretabhailegebriel@proton.me
-Phone / WhatsApp: +251 942 547 895  
-LinkedIn: https://www.linkedin.com/in/mehretab-hailegebriel
-
 Thanks for visiting! ⭐ Consider starring a repo if something here helps you.
