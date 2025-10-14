@@ -3,6 +3,7 @@
 <p align="center">
 I specialize in C#/.NET, Python, and cloud platforms (AWS & Azure), using these tools to design solutions that are scalable, efficient, and built for impact. Whether it’s accelerating access to data, streamlining operations, or powering AI-driven insights, I focus on clarity and purpose in every project. 
 <br/>
+<br/>
 I see backend engineering as a form of translation, turning complex needs into simple, reliable solutions. For me, it’s not just about writing code, but about creating systems that genuinely make people’s lives easier. I’m always learning the next “language”, technical or otherwise, that helps me solve hard engineering problems and build technology that works for people.
 </p>
 
