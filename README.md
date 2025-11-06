@@ -12,8 +12,8 @@ I specialize in C#/.NET, Python, and cloud platforms (AWS & Azure), building sca
 </p>
 
 ### 📄 Certifications
-- AWS Certified Solutions Architect – Associate (2024–2027)
-- AWS Certified Cloud Practitioner (2023–2027)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
 Feel free to reach out via email or open a discussion/issue on a repo.
 Thanks for visiting! ⭐ Consider starring a repo if something here helps you.
