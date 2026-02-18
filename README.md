@@ -16,4 +16,3 @@ I specialize in C#/.NET, Python, and cloud platforms (AWS & Azure), building sca
 - AWS Certified Cloud Practitioner
 
 Feel free to reach out via email or open a discussion/issue on a repo.
-Thanks for visiting! ⭐ Consider starring a repo if something here helps you.
