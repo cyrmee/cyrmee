@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm <b>Mehretab Hailegebriel (Mercy)</b> 👋</h1>
+<h1 align="center">Hi, I'm <b>Mehretab Hailegebriel (Mercy)</b></h1>
 <h3 align="center">Backend Engineer</h3>
 <p align="center">
-I specialize in C#/.NET, Python, and cloud platforms (AWS & Azure), building scalable, efficient solutions that drive impact. I translate complex needs into simple, reliable systems that improve people’s lives. I’m always learning the next language, technical or otherwise, to solve hard problems.
+I’m a backend-focused Software Engineer building scalable, high-impact systems that support national infrastructure and data-driven applications. I translate complex requirements into reliable, efficient solutions that improve performance, reduce costs, and deliver measurable real-world impact.
 </p>
 
 <p align="center">
