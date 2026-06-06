@@ -1,18 +1,13 @@
-<h1 align="center">Hi, I'm <b>Mehretab Hailegebriel (Mercy)</b></h1>
-<h3 align="center">Backend Engineer</h3>
+<h1 align="center">Mehretab Hailegebriel (Mercy)</h1>
+<p align="center">Software Engineer · Addis Ababa, Ethiopia</p>
 <p align="center">
-I’m a backend-focused Software Engineer building scalable, high-impact systems that support national infrastructure and data-driven applications. I translate complex requirements into reliable, efficient solutions that improve performance, reduce costs, and deliver measurable real-world impact.
+  <a href="mailto:cyrmee@gmail.com"><img src="https://img.shields.io/badge/Email-cyrmee%40gmail.com-orange?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mehretab-hailegebriel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://wa.me/251942547895"><img src="https://img.shields.io/badge/WhatsApp-%2B251%2094%20254%207895-25D366?style=flat&logo=whatsapp" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:mehretabhailegebriel@proton.me"><img src="https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail" /></a>
-  <a href="mailto:cyrmee@gmail.com"><img src="https://img.shields.io/badge/Alt%20Email-cyrmee%40gmail.com-blue?style=flat" /></a>
-  <a href="https://www.linkedin.com/in/mehretab-hailegebriel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" /></a>
-  <a href="https://wa.me/251942547895" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B251%20942%20547%20895-25D366?logo=whatsapp" /></a>
-</p>
+Building secure, scalable backend systems — currently contributing to Ethiopia's national digital identity platform.
 
-### 📄 Certifications
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
+**Stack:** Java · Spring Boot · TypeScript · Next.js · C# · ASP.NET Core · PostgreSQL · Redis · Azure · AWS · Docker · Kubernetes
 
-Feel free to reach out via email or open a discussion/issue on a repo.
+**Certs:** AWS Solutions Architect – Associate · AWS Cloud Practitioner
